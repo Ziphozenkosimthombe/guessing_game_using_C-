@@ -1,0 +1,14 @@
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/bin/Debug/net8.0/guessing_game
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/bin/Debug/net8.0/guessing_game.deps.json
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/bin/Debug/net8.0/guessing_game.runtimeconfig.json
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/bin/Debug/net8.0/guessing_game.dll
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/bin/Debug/net8.0/guessing_game.pdb
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/obj/Debug/net8.0/guessing_game.GeneratedMSBuildEditorConfig.editorconfig
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/obj/Debug/net8.0/guessing_game.AssemblyInfoInputs.cache
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/obj/Debug/net8.0/guessing_game.AssemblyInfo.cs
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/obj/Debug/net8.0/guessing_game.csproj.CoreCompileInputs.cache
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/obj/Debug/net8.0/guessing_game.dll
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/obj/Debug/net8.0/refint/guessing_game.dll
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/obj/Debug/net8.0/guessing_game.pdb
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/obj/Debug/net8.0/guessing_game.genruntimeconfig.cache
+/home/ziphoncayiyana/GUESSING_GAME_USING_C#/guessing_game/obj/Debug/net8.0/ref/guessing_game.dll
